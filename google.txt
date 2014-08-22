@@ -1,0 +1,11 @@
+# Takes page p and returns all pages that p links to
+List<Page> get_links(Page p)
+
+# Takes Page p and increments an internal counter if Google appears 
+# in the Page p.
+void increment_google_counter(Page p)
+
+Write a function to traverse
+
+
+I guess I've failed miserably.
